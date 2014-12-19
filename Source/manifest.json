@@ -10,7 +10,6 @@
 			"js": ["content_script.js"],
 			"run_at": "document_end"
 		}
-	]//All respect to Zoe Quinn for the original idea and forking Cloud to Butt. 
-	//I just switched out a couple words in content_script.
+	]
 }
 
