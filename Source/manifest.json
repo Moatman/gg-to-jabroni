@@ -1,0 +1,16 @@
+{
+	"manifest_version": 2,
+	"name": "Gamergate to Jabroni",
+	"version": "1.0",
+	"description": "Replaces the text 'gamergate' with 'jabroni'.",
+	"content_scripts": 
+	[
+		{
+			"matches": ["*://*/*"],
+			"js": ["content_script.js"],
+			"run_at": "document_end"
+		}
+	]//All respect to Zoe Quinn for the original idea and forking Cloud to Butt. 
+	//I just switched out a couple words in content_script.
+}
+
