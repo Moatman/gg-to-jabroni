@@ -7,6 +7,6 @@ Inspired by Zoe Quinn, who made the same thing but hasn't released it publicly a
 
 Installation Instructions
 =========================
-1) Go to the Extensions page (under "More Tools")
-2) Tick the "developer mode" checkbox
-3) Drag the Source.crx file onto the page
+1) Go to the Extensions page (under "More Tools")  
+2) Tick the "developer mode" checkbox  
+3) Drag the Source.crx file onto the page  
