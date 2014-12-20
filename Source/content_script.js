@@ -35,6 +35,9 @@ function handleText(textNode)
 	v = v.replace(/\bGamergaters\b/g, "Jabronis");
 	v = v.replace(/\bgamergate\b/g, "jabroni");
 	v = v.replace(/\bgamergaters\b/g, "jabronis");
+	v = v.replace(/\bGamerGate\b/g, "Jabroni");
+	v = v.replace(/\bGAMERGATE\b/g\b/g, "Jabroni");
+	v = v.replace(/\bGamerGaters\b/g, "Jabronis");
 	
 	textNode.nodeValue = v;
 }
