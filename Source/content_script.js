@@ -31,13 +31,15 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
-	v = v.replace(/\bGamergate\b/g, "Jabroni");
+	v = v.replace(/\bGamergate\b/g, "Jabronis");
 	v = v.replace(/\bGamergaters\b/g, "Jabronis");
-	v = v.replace(/\bgamergate\b/g, "jabroni");
+	v = v.replace(/\bgamergate\b/g, "jabronis");
 	v = v.replace(/\bgamergaters\b/g, "jabronis");
-	v = v.replace(/\bGamerGate\b/g, "Jabroni");
-	v = v.replace(/\bGAMERGATE\b/g\b/g, "Jabroni");
-	v = v.replace(/\bGamerGaters\b/g, "Jabronis");
+	v = v.replace(/\bGamerGate\b/g, "Jabronis");
+	v = v.replace(/\bGamergater\b/g, "Jabroni");
+	v = v.replace(/\bGamerGater\b/g, "Jabroni");
+	v = v.replace(/\bgamergater\b/g, "jabroni");
+
 	
 	textNode.nodeValue = v;
 }
