@@ -9,7 +9,9 @@ Installation Instructions
 =========================
 1) Go to the Extensions page (under "More Tools")  
 2) Tick the "developer mode" checkbox  
-3) Drag the Source.crx file onto the page  
-
-Edit December 19, 2014: Need to bughunt. Chrome isn't liking this (even dev chrome).
-Edit 2: Fixed it. Needed to repack the crx. Gamergate -> Jabronis is now functional
+3) Drag the Source.crx file onto the page  (Note, you need either Chrome Canary or Chrome's Dev Branch for this to work on Windows)
+  
+Updates
+=======
+December 19, 2014: Need to bughunt. Chrome isn't liking this (even dev chrome).  
+December 21, 2014: Fixed it. Needed to repack the crx. Gamergate -> Jabronis is now functional  
